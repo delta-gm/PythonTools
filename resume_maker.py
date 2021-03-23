@@ -50,12 +50,13 @@ class ResumeMaker:
                          'address',
                          'phone',
                          'email',
+                         'website',
                          'summary',
                          'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
                          'buffered h1', 'buffered h2',  # Heading with additional space above to denote a section
                          'end']
 
-        ### Learn enumerate().
+        
         # The relevant lines are after the tags, so create a list of numbers indicating where the tags are in the file
         for index, item in enumerate(pull_txt):
             if item in possible_tags:
@@ -67,7 +68,7 @@ class ResumeMaker:
             t = pull_txt[tag]
             if t == 'end':
                 break
-            if t in ['name', 'address', 'phone', 'email', 'buffer']:  # Read only the next line
+            if t in ['name', 'address', 'phone', 'email', 'website', 'buffer']:  # Read only the next line
                 txt = pull_txt[tag + 1]
                 p = self.doc.add_paragraph()
                 p_f = p.paragraph_format
@@ -129,5 +130,5 @@ class ResumeMaker:
         self.doc.save(self.output_filename)
 
 
-RM = ResumeMaker('resume_txt.txt', 'resume_word.docx')
+RM = ResumeMaker('emi_resume_text.txt', 'Emis_Resume.docx')
 RM.run()
