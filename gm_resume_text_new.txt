@@ -1,0 +1,72 @@
+name
+Garrett Merrion
+address
+4334 Medina River Loop, Spring, TX 77386
+phone
+832-696-7110
+email
+gmerrion01@outlook.com
+website
+www.delta-g.blog
+summary
+I am seeking a Systems Engineering position with Raytheon Missile and Defense because I deeply enjoy multi-disciplinary problem solving. Throughout my lab and research experience, I have enjoyed adding to my physics education with hands on experience with electronics, chemistry, and computer technology. I am seeking a position that will benefit from my skills and will allow me to grow throughout my career. 
+h1
+Education
+h2
+Texas State University, San Marcos, TX (2016-2018)
+h3
+B.S. in Physics, 3.7/4.0 major GPA
+h2
+Austin Community College, Austin, TX (2014-2015)
+buffered h1
+Experience
+h2
+AmSpec, Houston, TX
+h3
+Laboratory Analyst 2 (11/2019-4/2020)
+h4
+Fast paced industrial petrochemical testing and validation to ASTM standards. 
+h5
+At AmSpec, I actively sought training on the most sophisticated analysis technology in the gas department in my first two weeks and brought immediate value to the company. By understanding first principles of chemical analysis, I quickly gained proficiency in gas chromatography, potentiometric titrations, and distillations. Demonstrated adaptability as the default shift member for interpreting out-of-spec results and evaluating test validity.
+buffered h2
+Texas State University, San Marcos, TX
+h3
+Graduate Researcher, Semiconductor Fab (8/2018-6/2019)
+h4
+Contributor to multiple projects, publications, lab maintenance, and training.
+h5
+As a graduate researcher, I spent 35 hours a week between the thin films lab and fabrication cleanroom. My continued work under the DOD grant led to a drastically simplified method of fabricating cyan and blue perovskite OLED devices, as well as 4 additional graduate students to assist with extensive analysis of the device layers. I also co-authored a research publication on nickel nanodot array fabrication and Kelvin probe force microscopy (KPFM) analysis. My correspondence with Bruker concerning the details of KPFM allowed me to contribute valuable knowledge to the department. 
+buffered h2
+Texas State University, San Marcos, TX
+h3
+Research Assistant (8/2017-8/2018)
+h4
+Assisted principle investigator and post-doctorate researcher in analysis of perovskite optoelectronic devices under DoD grant.
+h5
+As an undergraduate research assistant, I excelled in design and implementation of automated high-vacuum systems, physical vapor deposition methods, and current-voltage characterization of thin film devices. flexible, transparent OLED displays under a DOD research grant. These experiences solidified my understanding of applied quantum mechanics, statistical physics, and field theory. In this position, I learned to translate knowledge of theory into experimental design.
+buffered h1
+Skills
+h5
+Python Machine Learning Libraries
+Neural Network Vision
+LabVIEW
+PV Device Design
+Optical Systems
+Spectrum Analyzers
+Vacuum Systems
+Physical Vapor Deposition
+Force Microscopy
+Time Series Analysis
+Technical Presentations
+Clean Room
+buffered h1
+Publications
+h5
+'Nickel Nanodot Arrays on Silicon Substrate Fabrication and Surface Charge Distribution'
+h6
+Materials Research Society, Cambridge University Press, 2020
+h5
+'Ambient Processing Conditions and their Effects on Perovskite Device Performance'
+h6
+ACS Omega, ACS Publications, 2019
+end

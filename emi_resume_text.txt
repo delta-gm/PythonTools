@@ -1,0 +1,66 @@
+name
+Emily R. Merrion
+address
+4334 Medina River Loop, Spring, TX 77386
+phone
+512-993-5316
+email
+emily.r.merrion@gmail.com
+summary
+h1
+Education
+h2
+Texas State University, San Marcos, TX (2016-2018)
+B.S. in Electrical Engineering/Computer Engineering, 3.93/4.0 major GPA
+h3
+Dean's List all 8 semesters
+NSF LSAMP Scholar
+buffered h1
+Experience
+h2
+Exxon Mobil, Houston, TX
+h3
+Full Stack Developer (2/2019-present)
+h4
+h5
+As an AV engineer, I was the subject matter expert for Fusion conference room systems. I solved a persistent five-year problem by exploring the issues and implementing self-cleaning database solutions to greatly increase the reliability of this globally implemented, on-premises system. After a database rebuild to eliminate corrupt data, my solution has kept the system stable for two years. 
+h5
+As a full-stack developer, I led a tenant migration project for Azure and managed Azure devops for the company. This role required a combination of preparation, collecting subscription info, the migration itself, policy remediation via remediation tasks and policy initiatives using Python and Powershell and Agile methodology. I also took on the role of scrum master when needed, and managed time-writing codes for multi-team project. 
+h5
+As the cybersecurity champion, I was the liason between dev teams and cybersecurity teams to communicate security vulnerabilities and was responsible for sustained remediation of those vulnerabilities.
+buffered h2
+Garmin, Kansas City, Kansas
+h3
+Embedded Software Engineer (Internship) (Summer 2018)
+h5
+As a software engineering intern, I wrote and modified system test code for automatic flight control servos, automated hardware and software tests, debugged embedded source code (C) and test framework (Python), and created a servo simulation for use in system tests. 
+buffered h1
+Certifications
+h5
+Azure Developer
+h5
+Azure Administrator
+buffered h1
+Skills
+h5
+Azure (Cosmos DB)
+Angular
+React
+C
+C++
+Java
+Python
+SQL
+Object Oriented Programming
+Computer Architecture
+Digital Signal Processing
+Microprocessors
+buffered h1
+Organizations
+h5
+Exxon Mobil United Way Team
+h5
+Texas State University Cycling Team President
+h5
+ToastMasters
+end
